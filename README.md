@@ -306,9 +306,9 @@ Modify CSS variables in `style.css`:
 ## 📞 **Contact & Support**
 
 For questions, suggestions, or collaboration opportunities:
-- **Email**: mohamedrashadhyg@gmail.com
+- **Email**: somayamahmoud30@gmail.com
 - **WhatsApp**: Available via portfolio contact section
-- **LinkedIn**: [Mohamed Rashad](https://linkedin.com/in/mohamed-rashad-2bb024288)
+- **LinkedIn**: [Somaya Mahmoud Elsaid](https://www.linkedin.com/in/somaya-mahmoud-elsaid-b314a1215)
 
 ---
 

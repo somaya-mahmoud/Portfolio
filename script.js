@@ -245,9 +245,9 @@ function hideTerminal() {
 
 // Terminal commands
 const terminalCommands = {
-  skills: () => 'Flutter, Dart, Firebase, Bloc, Provider, Riverpod, Clean Architecture, MVVM, OOP, SOLID Principles',
+  skills: () => 'Flutter, Dart, Firebase, Bloc, Provider, Clean Architecture, MVVM, OOP, SOLID Principles',
   projects: () => 'Imtyaze, Tadabar, Kidglish, Lifeline, Bank Dash',
-  contact: () => 'Email: mohamedrashadhyg@gmail.com | Phone: +20 155 576 1846',
+  contact: () => 'Email: somayamahmoud30@gmail.com | Phone: +20 1062674717',
   joke: () => {
     const jokes = [
       'Why do programmers prefer dark mode? Because light attracts bugs! 🐛',
@@ -422,7 +422,7 @@ async function loadDataWithData(data) {
   
   if (linkedinLink) {
     linkedinA.href = linkedinLink.url;
-    linkedinA.textContent = 'Mohamed Rashad';
+    linkedinA.textContent = 'Somaya Mahmoud Elsaid';
   }
 
   // Social Links

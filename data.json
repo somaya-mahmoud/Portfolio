@@ -1,28 +1,28 @@
 {
   "personal_info": {
-    "name": "Mohamed Rashad",
+    "name": "Somaya Mahmoud",
     "title": "Flutter Developer | Cross-Platform Mobile Applications",
-    "profile_image": "assets/profile/profile.jpeg",
-    "location": "Zagazig, Al Sharqia, Egypt",
+    "profile_image": "assets/profile/profile.jpg",
+    "location": "Nasr City, Egypt",
     "contact": {
-      "phone": "+20 155 576 1846",
-      "email": "mohamedrashadhyg@gmail.com"
+      "phone": "+20 1062674717",
+      "email": "somayamahmoud30@gmail.com"
     },
     "social_links": [
       {
         "platform": "GitHub",
-        "url": "https://github.com/mohamedrashad102"
+        "url": "https://github.com/somaya-mahmoud"
       },
       {
         "platform": "LinkedIn",
-        "url": "https://linkedin.com/in/mohamed-rashad-2bb024288"
+        "url": "https://www.linkedin.com/in/somaya-mahmoud-elsaid-b314a1215"
       }
     ],
-    "cv_download": "assets/downloads/Mohamed Rashad Resume.pdf",
-    "about_me": "A Flutter Developer with +2 years of experience building high-performance cross-platform mobile applications. Profi cient in state management, Firebase integration, and applying clean architecture principles. Committed to delivering intuitive user experiences and collaborating effectively to achieve project goals."
+    "cv_download": "assets/downloads/Somaya Mahmoud Resume.pdf",
+    "about_me": "A Flutter Developer with +3 years of experience building high-performance cross-platform mobile applications. Proficient in state management, Firebase integration, and applying clean architecture principles. Committed to delivering intuitive user experiences and collaborating effectively to achieve project goals."
   },
   "projects_num": "5",
-  "experience_num": "2",
+  "experience_num": "3",
   "customers_num": "4",
   "skills": {
     "soft_skills": [
@@ -39,8 +39,10 @@
     ],
     "technical_skills": [
       "Flutter and Dart",
-      "Bloc, Provider and Riverpod",
-      "RESTful APIs, Firebase, Hive and SQLite",
+      "Bloc",
+      "CI/CD",
+      "Agile",
+      "RESTful APIs, Firebase, Hive, and SQLite",
       "Responsive UI and Custom Widgets",
       "MVVM, and Clean Architecture",
       "OOP, SOLID Principles and Design Patterns",
@@ -51,461 +53,178 @@
   },
   "education": [
     {
-      "degree": "Faculty of Computer Science",
-      "institution": "Zagazig University",
-      "date_range": "2021 - 2025"
+      "degree": "Faculty of Engineering, Computer Science",
+      "university": "Al-Azhar University",
+      "date_range": "2016 - 2021"
     }
   ],
   "experience": [
     {
       "title": "Remote Flutter Developer",
-      "company": "ByteForce",
-      "location": "Zagazig, Egypt",
-      "date_range": "October 2024",
+      "company": "Athr Marefa",
+      "location": "Makkah, Saudi Arabia",
+      "date_range": "October 2025 - Present",
       "description_points": [
-        "Contributed to the development of Imtyaze, an educational platform for online learning.",
-        "Focused on Clean Architecture, Riverpod for state management, and API integration.",
+        "Contributed to the development of Athr Marefa, an employee management system used to manage staff records, attendance, and track pending and completed tasks.",
+        "Focused on Clean Architecture, Bloc for state management, and API integration.",
         "Enhanced UI/UX for a seamless and engaging user experience."
       ]
     },
     {
-      "title": "Summer Trainee",
-      "company": "ITI",
-      "location": "Mansoura, Egypt",
-      "date_range": "August 2023",
+      "title": "Flutter Developer",
+      "company": "Takamul Systems",
+      "location": "6th-October, Egypt",
+      "date_range": "November 2023 - August 2025",
       "description_points": [
-        "Completed intensive training in software development and mobile application design.",
-        "Collaborated with a team to implement an educational Flutter application Sm3ly.",
-        "Focused on MVVM architecture, Firebase integration, and user management with Firebase Authentication."
+        "Contributed to the development of Vendorsi, an e-commerce app for buying and selling products like clothing, shoes, and perfumes.",
+        "Implemented a user app for shopping and a delivery app for order delivery.",
+        "Applied Clean Architecture, Bloc state management, and API integration with enhanced UI/UX."
+      ]
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "ISAG Company",
+      "location": "Sheikh Zayed ,Giza",
+      "date_range": "December 2022 - June 2023",
+      "description_points": [
+        "Contributed to the development of ISAG, an employee management system used to manage staff records, attendance, and track pending and completed tasks.",
+        "Focused on Clean Architecture, Bloc for state management, and API integration.",
+        "Applied Clean Architecture, Bloc state management, and API integration with enhanced UI/UX."
       ]
     }
   ],
   "projects": [
+
     {
-      "name": "Imtyaze",
-      "cover_image": "assets/covers/Imtyaze.png",
-      "short_description": "A comprehensive e-learning platform tailored for students from high school to university.",
-      "description": "A comprehensive e-learning app for high school to university students, offering high-quality video courses, secure login, progress tracking, exams, transactions, and personalized content. With a clean UI and smooth transitions, users can browse, watch, take quizzes, and monitor their performance seamlessly.",
+      "name": "Ele Quiz",
+      "cover_image": "assets/covers/elequizcover.jpeg",
+      "short_description": "Ele Quiz is a quiz application that helps users test and improve their knowledge in web and mobile development topics such as HTML, CSS, Flutter, and JavaScript.",
+      "description": "Ele Quiz is an educational quiz application designed to help users test and improve their knowledge in different programming topics. The app provides interactive quizzes covering subjects such as HTML, CSS, Flutter, and JavaScript.\n\nIt offers a simple and user-friendly interface that allows users to answer questions, track their progress, and strengthen their understanding of key development concepts. The project demonstrates the use of Flutter for building responsive and interactive mobile applications.",
       "features": [
-        "High-quality video courses",
-        "Secure authentication",
-        "Advanced video streaming with progress tracking",
-        "Exams & assessments",
-        "Transaction management",
-        "Favorites & personalization"
+        "User-Friendly Interface: Simple and intuitive design for a smooth experience.",
+        "Browse Quizzes by Subject: Easily find quizzes organized by subject.",
+        "Search for Quizzes: Quickly locate specific quizzes using the search feature.",
+        "Take Timed Quizzes: Challenge yourself with quizzes with a time limit.",
+        "Review Results: View results instantly and identify mistakes.",
+        "Learn from Mistakes: Get feedback on incorrect answers to improve learning.",
+        "Responsive UI built with Flutter"
       ],
       "technologies_used": [
         "Flutter",
-        "Hooks",
-        "Riverpod",
-        "Hooks Riverpod",
-        "GoRouter",
-        "Flutter ScreenUtil",
-        "Flutter SVG",
-        "Cached Network Image",
-        "Chewie",
-        "Better Player Plus",
-        "Video Player",
-        "Dio",
-        "Equatable",
-        "Intl",
-        "Shared Preferences",
-        "URL Launcher",
-        "WebView Flutter",
-        "Shimmer",
-        "Flutter WindowManager Plus",
-        "Infinite Scroll Pagination",
-        "Package Info Plus",
-        "Share Plus"
-      ],
-      "links": [
-        {
-          "type": "App Store",
-          "url": "https://apps.apple.com/us/app/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2/id6742832357"
-        },
-        {
-          "type": "Google Drive",
-          "url": "https://drive.google.com/drive/folders/1DZfLCFMAJzG_fZdXZlgGEihZ61iqW9gq?usp=sharing"
-        }
-      ],
-      "media": []
-    },
-    {
-      "name": "Tadabar",
-      "cover_image": "assets/covers/Tadabar.png",
-      "short_description": "A cross-platform Islamic application available on Google Play, integrating multiple Islamic services.",
-      "description": "A cross-platform Islamic app on Google Play offering Quran recitation, Hadith, Azkar, Qibla, Zakat calculator, and a custom Islamic chatbot. Designed for performance and ease of use, with smooth navigation, elegant UI, and Light/Dark Mode support.",
-      "features": [
-        "Quran Recitation",
-        "Hadith Collections",
-        "Azkar",
-        "Qibla Direction",
-        "Zakat Calculator",
-        "Custom-built Islamic Chatbot",
-        "Light & Dark Mode Support"
-      ],
-      "technologies_used": [
-        "Flutter",
+        "Dart",
         "BLoC",
-        "Provider",
         "Dio",
-        "GoRouter",
-        "Location Services",
-        "Qiblah Direction",
-        "Local Notifications",
-        "Shared Preferences",
-        "Audio Playback",
-        "PDF Viewer",
-        "Custom Animations",
-        "Chatbot Integration",
-        "Light & Dark Themes"
-      ],
-      "links": [
-        {
-          "type": "Google Play",
-          "url": "https://play.google.com/store/apps/details?id=com.binaryplus.tadabar&pli=1"
-        }
-      ],
-      "media": []
-    },
-    {
-      "name": "Kidglish",
-      "cover_image": "assets/covers/Kidglish.png",
-      "short_description": "A dynamic educational mobile app teaching English to children interactively.",
-      "description": "An interactive educational app that teaches English to kids using speech recognition, text-to-speech, and engaging visuals. Features include speaking exercises, handwriting practice, Lottie animations, Firebase-synced content, and AI-powered adaptive learning. Designed for a fun experience with real-time feedback and a responsive, kid-friendly UI.",
-      "features": [
-        "Speech-to-text exercises",
-        "Friendly text-to-speech output",
-        "Handwriting practice",
-        "Lottie animations",
-        "Firebase-synced content",
-        "AI-powered adaptive learning",
-        "Interactive games with multiple levels"
-      ],
-      "technologies_used": [
-        "Flutter",
-        "Riverpod",
-        "Hooks",
-        "GoRouter",
-        "Firebase Core",
-        "Firestore",
-        "Text-to-Speech",
-        "Speech-to-Text",
-        "Audio Playback",
-        "SVG Rendering",
-        "Lottie Animations",
-        "Device Preview",
-        "Path Provider",
-        "Google Generative AI",
-        "Signature Capture",
-        "Equatable"
-      ],
-      "links": [
-        {
-          "type": "Google Drive",
-          "url": "https://drive.google.com/drive/folders/1RbTfjFqyUkj7dI1dS9Av4lVHUm5HlxOf?usp=sharing"
-        }
-      ],
-      "media": [
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish1.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish2.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish3.jpg"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish4.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish5.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish6.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish7.gif"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish8.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish9.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish10.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Kidglish/Kidglish11.jpg"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish12.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish13.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish14.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish15.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish16.gif"
-        },
-        {
-          "type": "gif",
-          "url": "assets/screenshots/Kidglish/Kidglish17.gif"
-        }
-      ]
-    },
-    {
-      "name": "Lifeline",
-      "cover_image": "assets/covers/Lifeline.png",
-      "short_description": "A bilingual health assistant app with Light/Dark mode, localization, and local notifications for medical resources, emergencies, and health management.",
-      "description": "A bilingual (Arabic/English) health assistant app with Light/Dark mode, localization, and local notifications, offering medical resources, emergency tools, and personal health management. Key features include disease search, emergency guides, hospital locator with maps, first aid videos, daily health tips, medication tracking, and appointment reminders.",
-      "features": [
-        "Bilingual support (Arabic/English)",
-        "Light/Dark mode",
-        "Localization",
-        "Disease search by name or symptoms",
-        "Emergency case guides with first aid steps",
-        "Built-in and custom emergency contacts with direct call",
-        "Nearby hospital locator with map integration",
-        "First aid videos",
-        "Daily health tips with share option",
-        "Medication tracking with reminders",
-        "Appointment reminders",
-        "Local notifications for tips and alerts",
-        "User profile management"
-      ],
-      "technologies_used": [
-        "Flutter",
-        "Riverpod"
-      ],
-      "links": [
-        {
-          "type": "Google Drive",
-          "url": "https://drive.google.com/drive/folders/1hwMwvUsj3sSgkXDQ83w_GnoKNIkufDEn"
-        }
-      ],
-      "media": [
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline1.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline2.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline3.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline4.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline5.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline6.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline7.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline8.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline9.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline10.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline11.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline12.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline13.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline14.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline15.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline16.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline17.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline18.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline19.jpg"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/Lifeline/Lifeline20.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Bank Dash",
-      "cover_image": "assets/covers/BankDash.png",
-      "short_description": "A modern banking application built with Flutter that provides a complete financial management solution.",
-      "description": "Bank Dash is a modern banking application built with Flutter that provides a complete financial management solution. It offers features like: account overview, transaction history, money transfers, bill payments, and financial analytics, with responsive designs for both mobile and desktop platforms.",
-      "features": [
-        "Account overview",
-        "Transaction history",
-        "Money transfers",
-        "Bill payments",
-        "Financial analytics",
-        "Responsive design (mobile and desktop)"
-      ],
-      "technologies_used": [
-        "Flutter",
-        "Bloc",
-        "GoRouter",
-        "Flutter SVG",
-        "Device Preview",
-        "Expandable Page View",
-        "FL Chart",
-        "Syncfusion Charts",
-        "Syncfusion Localizations",
-        "Intl",
-        "Zoom Widget"
+        "Retrofit",
+        "Injectable",
+        "GetIt",
+        "Isar Database",
+        "SharedPreferences",
+        "Flutter Hooks",
+        "Lottie",
+        "ScreenUtil",
+        "Mockito",
+        "Bloc Test",
+        "Clean Architecture",
+        "GoRouter"
       ],
       "links": [
         {
           "type": "GitHub",
-          "url": "https://github.com/mohamedrashad102/bank_dash"
+          "url": "https://github.com/Marco-Nagy/ele_quiz"
         }
       ],
       "media": [
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash1.png"
+          "url": "assets/screenshots/elequiz/quiz1.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash2.png"
+          "url": "assets/screenshots/elequiz/quiz2.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash3.png"
+          "url": "assets/screenshots/elequiz/quiz3.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash4.png"
+          "url": "assets/screenshots/elequiz/quiz4.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash5.png"
+          "url": "assets/screenshots/elequiz/quiz5.jpeg"
+        },
+        {
+          "type": "gif",
+          "url": "assets/screenshots/elequiz/elequiz.gif"
+        }
+      ]
+    },
+    {
+      "name": "Flowery Store",
+      "cover_image": "assets/covers/floweryCover.jpeg",
+      "short_description": "Flowery App is a Flutter e-commerce application offering a smooth and intuitive shopping experience for floral products.",
+      "description": "Flowery App provides a seamless shopping experience for floral enthusiasts. Browse a variety of floral products, add them to your cart, and track your orders effortlessly.",
+      "features": [
+        "User Authentication: Secure login and registration functionality.",
+        "Product Browsing: Explore a wide range of floral products.",
+        "Search Functionality: Quickly find products using the search feature.",
+        "Shopping Cart: Add products to the cart and proceed to checkout.",
+        "Order Tracking: Monitor the status of your orders."
+      ],
+      "technologies_used": [
+        "Flutter: Cross-platform framework for building the app.",
+        "Dart: Primary programming language.",
+        "Firebase: Used for authentication, database, and notifications.",
+        "Provider: State management for efficient UI updates.",
+        "REST API: Backend integration for product data and order management.",
+        "Git & GitHub: Version control and collaboration.",
+        "CI/CD Pipelines: Automated build and deployment using GitHub Actions.",
+        "Responsive Design: Ensures optimal user experience on all devices.",
+        "Google Play Store Optimization: Feature graphics and descriptions tailored for better visibility."
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "https://github.com/Marco-Nagy/flowery_store"
+        }
+      ],
+      "media": [
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/flowery/flowery1.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash6.png"
+          "url": "assets/screenshots/flowery/flowery2.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash7.png"
+          "url": "assets/screenshots/flowery/flowery3.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash8.png"
+          "url": "assets/screenshots/flowery/flowery4.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash9.png"
+          "url": "assets/screenshots/flowery/flowery5.jpeg"
         },
         {
           "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash10.png"
+          "url": "assets/screenshots/flowery/flowery6.jpeg"
         },
         {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash11.png"
+          "type": "gif",
+          "url": "assets/screenshots/flowery/flowery.gif"
         },
         {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash12.png"
+          "type": "gif",
+          "url": "assets/screenshots/flowery/flowery1.gif"
         },
         {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash13.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash14.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash15.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash16.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash17.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash18.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash19.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash20.png"
-        },
-        {
-          "type": "screenshot",
-          "url": "assets/screenshots/BankDash/BankDash21.png"
+          "type": "gif",
+          "url": "assets/screenshots/flowery/flowery2.gif"
         }
       ]
     }
