@@ -227,6 +227,111 @@
           "url": "assets/screenshots/flowery/flowery2.gif"
         }
       ]
+    },
+    {
+      "name": "Fitness App",
+      "cover_image": "assets/covers/fitnessCover.png",
+      "short_description": "Fitness app with secure login, an AI-powered coach (Gemini), exercise video guidance, categorized workouts (Gym, Yoga, Aerobics), and curated meal plans for personalized fitness.",
+      "description": "Fitness App designed to transform your wellness journey. It features secure login, an AI-powered fitness coach (powered by Gemini) for real-time interactive chat support, and video guidance for every exercise. Tailored for all fitness levels: beginner, intermediate, and advanced. the app offers a personalized experience with a smart home dashboard that organizes workouts by type : Gym, Yoga, Aerobics, and trainer-led sessions. Plus, enjoy expertly curated meal plans to support your goals.",
+      "features": [
+        "Secure user authentication",
+        "AI-powered fitness coach using Gemini for real-time chat support",
+        "Exercise video guidance for every workout",
+        "Personalized workouts for beginner, intermediate, and advanced levels",
+        "Smart home dashboard for workout management",
+        "Categorized workouts: Gym, Yoga, Aerobics, and trainer-led sessions",
+        "Curated meal plans to support fitness goals"
+      ],
+      "technologies_used": [
+        "Flutter: Cross-platform framework for building the mobile application.",
+        "Dart: Primary programming language used for development.",
+        "Flutter Bloc: State management for predictable and scalable app architecture.",
+        "Dio & Retrofit: REST API integration and network communication.",
+        "JSON Serializable: Automated JSON parsing and model generation.",
+        "Get It & Injectable: Dependency injection for scalable and maintainable architecture.",
+        "Hive: Lightweight local database for offline data storage.",
+        "Shared Preferences: Persistent local storage for simple app settings.",
+        "Flutter Gemini: AI integration for the in-app fitness coach chat feature.",
+        "YouTube Player Flutter: Video playback for exercise guidance.",
+        "Flutter ScreenUtil: Responsive UI design across different screen sizes.",
+        "Lottie & Animate_do: Smooth animations for enhanced user experience.",
+        "Cached Network Image: Efficient image loading and caching.",
+        "Connectivity Plus: Network connectivity detection.",
+        "Geolocator & Geocoding: Location services and address handling.",
+        "Image Picker: Selecting images from camera or gallery.",
+        "Flutter Intl: App localization and multi-language support.",
+        "Git & GitHub: Version control and collaboration."
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "https://github.com/haidyhesham95/fitness_app"
+        }
+      ],
+      "media": [
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness1.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness4.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness5.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness6.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness7.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness8.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness9.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness10.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness11.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness12.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness13.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/fitness_app/fitness14.jpeg"
+        },
+        {
+          "type": "gif",
+          "url": "assets/screenshots/fitness_app/fitness.gif"
+        }
+
+
+      ]
     }
   ]
 }
