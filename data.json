@@ -1,7 +1,7 @@
 {
   "personal_info": {
     "name": "Somaya Mahmoud",
-    "title": "Flutter Developer | Cross-Platform Mobile Applications",
+    "title": "Flutter Developer | Cross-Platform Mobile App Developer",
     "profile_image": "assets/profile/profile.jpg",
     "location": "Nasr City, Egypt",
     "contact": {
@@ -19,7 +19,7 @@
       }
     ],
     "cv_download": "assets/downloads/Somaya Mahmoud Resume.pdf",
-    "about_me": "A Flutter Developer with +3 years of experience building high-performance cross-platform mobile applications. Proficient in state management, Firebase integration, and applying clean architecture principles. Committed to delivering intuitive user experiences and collaborating effectively to achieve project goals."
+    "about_me": "A Flutter Developer with 3+ years of experience building high-performance cross-platform mobile applications. Proficient in state management, Firebase integration, and applying clean architecture principles. Committed to delivering intuitive user experiences and collaborating effectively to achieve project goals."
   },
   "projects_num": "5",
   "experience_num": "3",
@@ -42,7 +42,7 @@
       "Bloc",
       "CI/CD",
       "Agile",
-      "RESTful APIs, Firebase, Hive, and SQLite",
+      "RESTful APIs, Firebase, and SQLite",
       "Responsive UI and Custom Widgets",
       "MVVM, and Clean Architecture",
       "OOP, SOLID Principles and Design Patterns",
@@ -53,7 +53,7 @@
   },
   "education": [
     {
-      "degree": "Faculty of Engineering, Computer Science",
+      "degree": "Faculty of Engineering, Al-Azhar University, Computer Science Department.",
       "university": "Al-Azhar University",
       "date_range": "2016 - 2021"
     }
@@ -65,7 +65,7 @@
       "location": "Makkah, Saudi Arabia",
       "date_range": "October 2025 - Present",
       "description_points": [
-        "Contributed to the development of Athr Marefa, an employee management system used to manage staff records, attendance, and track pending and completed tasks.",
+        "Contributed to the development of Athr Hr, an employee management system used to manage staff records, attendance, and track pending and completed tasks.",
         "Focused on Clean Architecture, Bloc for state management, and API integration.",
         "Enhanced UI/UX for a seamless and engaging user experience."
       ]
@@ -84,12 +84,12 @@
     {
       "title": "Flutter Developer",
       "company": "ISAG Company",
-      "location": "Sheikh Zayed ,Giza",
+      "location": "Sheikh Zayed, Giza",
       "date_range": "December 2022 - June 2023",
       "description_points": [
         "Contributed to the development of ISAG, an employee management system used to manage staff records, attendance, and track pending and completed tasks.",
-        "Focused on Clean Architecture, Bloc for state management, and API integration.",
-        "Applied Clean Architecture, Bloc state management, and API integration with enhanced UI/UX."
+        "Focused on implementing Clean Architecture, Bloc for state management, and API integration.",
+        "Improved the application's UI/UX to ensure a smooth user experience."
       ]
     }
   ],
@@ -107,7 +107,7 @@
         "Take Timed Quizzes: Challenge yourself with quizzes with a time limit.",
         "Review Results: View results instantly and identify mistakes.",
         "Learn from Mistakes: Get feedback on incorrect answers to improve learning.",
-        "Responsive UI built with Flutter"
+        "Responsive and adaptive user interface"
       ],
       "technologies_used": [
         "Flutter",
@@ -160,6 +160,152 @@
         }
       ]
     },
+
+    {
+      "name": "Athr Hr",
+      "cover_image": "assets/covers/athrcover.jpeg",
+      "short_description": "A mobile application designed to manage employee information, attendance tracking with fingerprint check-in/check-out, task management, working hours calculation, leave management, and official holidays in an organized system.",
+      "description": "A mobile application designed to streamline human resources management by organizing and managing employee-related data in one place. The system allows HR teams to store and manage employee information, track attendance through fingerprint-based check-in and check-out, and assign tasks to employees. The application also helps monitor working hours, manage employee leaves, and track official holidays and important events. It provides an organized and user-friendly interface that simplifies HR operations and improves workflow efficiency within organizations.",
+      "features": [
+        "Employee Profile Management: Store and manage detailed employee profiles including personal and job information.",
+        "Attendance Tracking: Record employee check-in and check-out using fingerprint authentication.",
+        "Attendance History: View and track daily, weekly, and monthly attendance records.",
+        "Task Assignment: Assign tasks to employees and monitor their completion status.",
+        "Working Hours Calculation: Automatically calculate employee working hours and overtime.",
+        "Leave Management: Allow employees to request vacations and track leave balances.",
+        "Official Holidays Management: Display company holidays and important organizational events.",
+        "Notifications & Reminders: Send reminders for tasks, attendance, and important updates.",
+        "Employee Performance Monitoring: Track employee activities and productivity.",
+        "Search & Filter Employees: Easily find employees using search and filtering options.",
+        "Secure Data Handling: Protect employee data with secure access and management.",
+        "User-Friendly Interface: Clean and intuitive interface for efficient HR management."
+      ],
+      "technologies_used": [
+        "Flutter",
+        "Dart",
+        "BLoC",
+        "Dio",
+        "Retrofit",
+        "Injectable",
+        "GetIt",
+        "SharedPreferences",
+        "Flutter Hooks",
+        "Lottie",
+        "ScreenUtil",
+        "Mockito",
+        "Bloc Test",
+        "Clean Architecture",
+        "GoRouter"
+      ],
+
+      "media": [
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/athr1.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/athr2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/athr3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/athr4.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/athr5.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/home1.jpeg"
+        },{
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/home2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/home3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/home4.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/tasks1.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/tasks2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/tasks3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/tasks4.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/tasks5.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/times1.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/times2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/tasks3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/profile1.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/profile2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/profile3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/holidays1.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/holidays2.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/holidays3.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/holidays4.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/screenshots/athr/holidays5.jpeg"
+        },
+
+        {
+          "type": "gif",
+          "url": "assets/screenshots/athr/athr.gif"
+        }
+      ]
+    },
+
     {
       "name": "Flowery Store",
       "cover_image": "assets/covers/floweryCover.jpeg",
@@ -228,6 +374,7 @@
         }
       ]
     },
+
     {
       "name": "Fitness App",
       "cover_image": "assets/covers/fitnessCover.png",
